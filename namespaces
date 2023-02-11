@@ -1,0 +1,13 @@
+using System; //built-in namespace
+using School;
+
+namespace CSharpTutorials
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Student std = new Student();
+        }
+    }
+}
